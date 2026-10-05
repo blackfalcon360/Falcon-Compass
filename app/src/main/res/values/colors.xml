@@ -1,0 +1,6 @@
+<resources>
+    <!-- White with transparency (B3 = about 70 percent opaque). Change the first two letters for more or less transparency. -->
+    <color name="white_translucent">#B3FFFFFF</color>
+    <color name="falcon_navy">#1A237E</color>
+    <color name="ic_background">#E8EAF6</color>
+</resources>
